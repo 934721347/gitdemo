@@ -1,6 +1,6 @@
 hello git hot_fix
 hello git not hot
-hello git
+hello git hot fix
 hello git
 hello git
 hello git
